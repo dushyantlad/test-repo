@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is pull edit.
+This is master edit.
