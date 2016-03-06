@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is master edit.
+This is branch changes 1 edit.
